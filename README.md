@@ -1,4 +1,3 @@
-![Screenshot 2024-01-02 235951](https://github.com/Srikaavyaathamizh/copy-file/assets/144870938/0a17c6d5-37cb-4d3a-ae9d-49b6b7d1e2e4)# copy-file
 ## AIM:
 To write a python program for copying the contents from one file to another file.
 ## EQUIPEMENT'S REQUIRED: 
